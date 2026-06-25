@@ -8,7 +8,7 @@ mô phỏng hạ tầng IT thực tế trong môi trường ngân hàng.
 ![Zabbix Dashboard](dashboard.png)
 
 ## Final Dashboard (4 Hosts)
-![Final Dashboard](dashboard_final.png)
+![Final Dashboard](Dashboard_final.png)
 
 ## Lab Architecture
 - **Zabbix Server**: Rocky Linux 9 - Zabbix 7.0 LTS
